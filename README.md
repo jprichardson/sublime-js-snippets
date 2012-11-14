@@ -37,14 +37,14 @@ console.log(require('util').inspect(${1:obj}, true, ${2:10}, true))${0}
 ```
 
 
-### console.dir [cd]
+### [cd] console.dir
 
 ```javascript
 console.dir(${1:obj})${0}
 ```
  
 
-### function [fn]
+### [fn] function 
 
 ```javascript
 function ${1:methodName} (${2:arguments}) {
@@ -53,14 +53,14 @@ function ${1:methodName} (${2:arguments}) {
 ```
 
 
-### module.exports [me]
+### [me] module.exports 
 
 ```javascript
 module.exports = ${1}
 ```
 
 
-### prototype [proto]
+### [proto] prototype
 
 ```javascript
 ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
@@ -69,7 +69,7 @@ ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
 ```
 
 
-### require [req]
+### [req] require
 
 ```javascript
 require('${1:package}')${0}
@@ -80,7 +80,7 @@ require('${1:package}')${0}
 Behaviorial Driven Development
 ------------------------------
 
-### describe [desc]
+### [desc] describe
 
 ```javascript
 describe('${1:description}', function() {
@@ -89,7 +89,7 @@ describe('${1:description}', function() {
 ```
 
 
-### asychronous it [ita]
+### [ita] asychronous it
 
 ```javascript
 it('${1:description}', function(done) {
@@ -99,7 +99,7 @@ it('${1:description}', function(done) {
 ```
 
 
-### synchronous it [its]
+### [its] synchronous it
 
 ```javascript
 it('${1:description}', function() {
