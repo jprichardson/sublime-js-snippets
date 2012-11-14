@@ -2,7 +2,7 @@
     <content><![CDATA[
 console.dir(${0:msg})
 ]]></content>
-    <tabTrigger>cdu</tabTrigger>
+    <tabTrigger>cd</tabTrigger>
     <scope>source.js</scope>
     <description>console.dir</description>
 </snippet>
