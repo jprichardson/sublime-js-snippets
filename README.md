@@ -11,7 +11,7 @@ Currently install only works on OS X. But you can manually copy the snippets to 
 
 
 
-Snippets
+Vanilla Snippets
 --------
 
 ### afn
@@ -29,10 +29,23 @@ Snippets
 ### req
 
 
+
+Behaviorial Driven Development
+------------------------------
+
+### desc
+
+### ita
+
+### its
+
+
+
 Author
 ------
 
 JP Richardson
+
 
 
 License

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[it('${1:description}', function() {
+  ${0:// body...}
+})
+]]></content>
+    <tabTrigger>its</tabTrigger>
+    <scope>source.js</scope>
+    <description>BDD it synchronous</description>
+</snippet>
