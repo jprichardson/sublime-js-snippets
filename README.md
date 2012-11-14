@@ -30,29 +30,82 @@ console.log(${1:msg})${0}
 ```
 
 
-### cd
+### console.log with util.inspect [cli]
 
-### cdu
+```javascript
+console.log(require('util').inspect(${1:obj}, true, ${2:10}, true))${0}
+```
 
-### fn
 
-### me
+### console.dir [cd]
 
-### proto
+```javascript
+console.dir(${1:obj})${0}
+```
+ 
 
-### req
+### function [fn]
+
+```javascript
+function ${1:methodName} (${2:arguments}) {
+  ${0:// body...}
+}
+```
+
+
+### module.exports [me]
+
+```javascript
+module.exports = ${1}
+```
+
+
+### prototype [proto]
+
+```javascript
+${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
+  ${0:// body...}
+}
+```
+
+
+### require [req]
+
+```javascript
+require(${1:package})${0}
+```
 
 
 
 Behaviorial Driven Development
 ------------------------------
 
-### desc
+### describe [desc]
 
-### ita
+```javascript
+describe('${1:description}', function() {
+  ${0:// body...}
+})
+```
 
-### its
 
+### asychronous it [ita]
+
+```javascript
+it('${1:description}', function(done) {
+  ${0:// body...}
+  done()
+})
+```
+
+
+### synchronous it [its]
+
+```javascript
+it('${1:description}', function() {
+  ${0:// body...}
+})
+```
 
 
 Author
