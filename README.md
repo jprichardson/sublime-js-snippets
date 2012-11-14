@@ -72,7 +72,7 @@ ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
 ### require [req]
 
 ```javascript
-require(${1:package})${0}
+require('${1:package}')${0}
 ```
 
 
