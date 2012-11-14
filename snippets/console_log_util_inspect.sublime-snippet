@@ -2,7 +2,7 @@
     <content><![CDATA[
 console.log(require('util').inspect(${1:obj}, true, 10, true))${0}
 ]]></content>
-    <tabTrigger>cdu</tabTrigger>
+    <tabTrigger>clu</tabTrigger>
     <scope>source.js</scope>
     <description>console.inspect</description>
 </snippet>
