@@ -14,7 +14,7 @@ Currently install only works on OS X. But you can manually copy the snippets to 
 Vanilla Snippets
 --------
 
-### anonymous function [afn]
+### [afn] anonymous function 
 
 ```javascript
 function(${1:arguments}) {
@@ -23,14 +23,14 @@ function(${1:arguments}) {
 ```
 
 
-### console.log [cl]
+### [cl] console.log 
 
 ```javascript
 console.log(${1:msg})${0}
 ```
 
 
-### console.log with util.inspect [cli]
+### [cli] console.log with util.inspect 
 
 ```javascript
 console.log(require('util').inspect(${1:obj}, true, ${2:10}, true))${0}
