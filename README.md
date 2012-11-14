@@ -14,15 +14,29 @@ Currently install only works on OS X. But you can manually copy the snippets to 
 Vanilla Snippets
 --------
 
-### afn
+### anonymous function [afn]
 
-### cl
+```javascript
+function(${1:arguments}) {
+  ${0:// body...}
+}
+```
+
+
+### console.log [cl]
+
+```javascript
+console.log(${1:msg})${0}
+```
+
 
 ### cd
 
 ### cdu
 
 ### fn
+
+### me
 
 ### proto
 
