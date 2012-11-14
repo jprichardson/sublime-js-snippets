@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+console.log(require('util').inspect(${0:obj}, true, 10, true))
+]]></content>
+    <tabTrigger>cdu</tabTrigger>
+    <scope>source.js</scope>
+    <description>console.inspect</description>
+</snippet>
