@@ -1,13 +1,29 @@
 Sublime Text Editor 2 - JavaScript Snippets
 ===========================================
 
-JavaScript snippets for your Sublime Text 2 Fu.
+JavaScript / JS snippets for your Sublime Text 2 Fu.
 
 
 Install
 -------
 
-Currently install only works on OS X. But you can manually copy the snippets to the proper location on any platform.
+### Sublime Text 2 - Package Control
+
+Install via package control: http://wbond.net/sublime_packages/community
+
+### Mac OS X
+
+    git clone git://github.com/jprichardson/sublime-js-snippets.git ~/Library/Application Support/Sublime Text 2/Packages/JavaScript
+
+
+### Linux
+
+    git clone git://github.com/jprichardson/sublime-js-snippets.git ~/.config/sublime-text-2/Packages/JavaScript
+
+
+### Windows
+
+    git clone git://github.com/jprichardson/sublime-js-snippets.git %userprofile%\AppData\Roaming\Sublime Text 2\Packages\JavaScript
 
 
 
