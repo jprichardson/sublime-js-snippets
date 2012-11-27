@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+process.exit()
+]]></content>
+    <tabTrigger>pe</tabTrigger>
+    <scope>source.js</scope>
+    <description>process.exit</description>
+</snippet>

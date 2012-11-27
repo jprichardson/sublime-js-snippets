@@ -9,7 +9,8 @@ Install
 
 ### Sublime Text 2 - Package Control
 
-Install via package control: http://wbond.net/sublime_packages/community
+Install via package control: http://wbond.net/sublime_packages/community Search for **JavaScript Snippets** or typically the keywords **js** or **javascript** are suitable.
+
 
 ### Mac OS X
 
@@ -73,6 +74,13 @@ function ${1:methodName} (${2:arguments}) {
 
 ```javascript
 module.exports = ${1}
+```
+
+
+### [pe] process.exit 
+
+```javascript
+process.exit()
 ```
 
 
