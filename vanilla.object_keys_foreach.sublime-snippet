@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[Object.keys(${1:obj}).forEach(function(key) {
+  ${0:// body...}
+})
+]]></content>
+    <tabTrigger>okfn</tabTrigger>
+    <scope>source.js</scope>
+    <description>Object.keys...forEach</description>
+</snippet>

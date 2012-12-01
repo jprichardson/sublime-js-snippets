@@ -40,6 +40,20 @@ function(${1:arguments}) {
 ```
 
 
+### [cd] console.dir
+
+```javascript
+console.dir(${1:obj})${0}
+```
+
+
+### [ce] console.error
+
+```javascript
+console.error(${1:error})${0}
+```
+
+
 ### [cl] console.log 
 
 ```javascript
@@ -54,12 +68,12 @@ console.log(require('util').inspect(${1:obj}, true, ${2:10}, true))${0}
 ```
 
 
-### [cd] console.dir
+### [ct] console.trace
 
 ```javascript
-console.dir(${1:obj})${0}
+console.trace(${1:msg})${0}
 ```
- 
+
 
 ### [fn] function 
 
@@ -74,6 +88,15 @@ function ${1:methodName} (${2:arguments}) {
 
 ```javascript
 module.exports = ${1}
+```
+
+
+### [okfe] Objects.keys and forEach
+
+```js
+Object.keys(${1:obj}).forEach(function(key) {
+  ${0:// body...}
+})
 ```
 
 

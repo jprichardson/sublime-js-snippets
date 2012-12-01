@@ -1,3 +1,9 @@
+2012-12-01
+----------
+* Added `console.error` **[ce]**
+* Added `console.trace` **[ct]**
+* Added `Object.keys(obj).forEach...` **[okfe]**
+
 2012-11-26
 ----------
 * Added `process.exit` **[pe]**.

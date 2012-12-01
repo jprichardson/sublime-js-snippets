@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+console.trace(${1:error})${0}
+]]></content>
+    <tabTrigger>ct</tabTrigger>
+    <scope>source.js</scope>
+    <description>console.trace</description>
+</snippet>
