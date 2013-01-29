@@ -158,7 +158,6 @@ describe('${1:description}', function() {
 ```javascript
 it('${1:description}', function(done) {
   ${0:// body...}
-  done()
 })
 ```
 
