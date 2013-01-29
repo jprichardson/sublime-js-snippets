@@ -1,3 +1,10 @@
+2013-01-29
+----------
+* Changed `okfn` to `okfe`
+* Removed 'done()' from `ita`.
+* Added `setTimeout` **[sto]**
+* Added `setInterval` **[sti]**
+
 2012-12-01
 ----------
 * Added `console.error` **[ce]**

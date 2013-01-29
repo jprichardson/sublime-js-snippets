@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[setTimeout(function() {
+  ${2:// body...}
+}, ${1:millis})
+]]></content>
+    <tabTrigger>sto</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTimeout</description>
+</snippet>

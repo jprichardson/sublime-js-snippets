@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[setInterval(function() {
+  ${2:// body...}
+}, ${1:millis})
+]]></content>
+    <tabTrigger>sti</tabTrigger>
+    <scope>source.js</scope>
+    <description>setInterval</description>
+</snippet>

@@ -123,6 +123,23 @@ require('${1:package}')${0}
 ```
 
 
+### [sto] setTimeout
+
+```javascript
+setTimeout(function() {
+  ${2:// body...}
+}, ${1:millis})
+```
+
+### [sti] setInterval
+
+```javascript
+setInterval(function() {
+  ${2:// body...}
+}, ${1:millis})
+```
+
+
 
 Behaviorial Driven Development
 ------------------------------
