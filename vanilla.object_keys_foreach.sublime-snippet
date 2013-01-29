@@ -3,7 +3,7 @@
   ${0:// body...}
 })
 ]]></content>
-    <tabTrigger>okfn</tabTrigger>
+    <tabTrigger>okfe</tabTrigger>
     <scope>source.js</scope>
     <description>Object.keys...forEach</description>
 </snippet>
