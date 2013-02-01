@@ -1,3 +1,7 @@
+2013-02-01
+----------
+* Added block comment **[/<notextile>**</notextile>]**
+
 2013-01-29
 ----------
 * Changed `okfn` to `okfe`
