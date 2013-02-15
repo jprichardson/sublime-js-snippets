@@ -140,14 +140,6 @@ setInterval(function() {
 ```
 
 
-### [/**] block comment
-
-```js
-/***********************
- * {$0:DESCRIPTION}
- ***********************/
- ```
-
 
 Behaviorial Driven Development
 ------------------------------
