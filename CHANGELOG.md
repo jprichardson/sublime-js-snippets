@@ -1,3 +1,8 @@
+2013-05-15
+----------
+* removed block comment
+* added `'use strict'` **[us]**
+
 2013-02-01
 ----------
 * Added block comment **[/<notextile>**</notextile>]**

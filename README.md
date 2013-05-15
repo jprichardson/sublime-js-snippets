@@ -131,12 +131,20 @@ setTimeout(function() {
 }, ${1:millis})
 ```
 
+
 ### [sti] setInterval
 
 ```javascript
 setInterval(function() {
   ${2:// body...}
 }, ${1:millis})
+```
+
+
+### [us] use strict
+
+```javascript
+'use strict'
 ```
 
 
@@ -169,6 +177,7 @@ it('${1:description}', function() {
   ${0:// body...}
 })
 ```
+
 
 
 Author
