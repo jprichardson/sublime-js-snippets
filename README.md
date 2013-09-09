@@ -86,7 +86,7 @@ function ${1:methodName} (${2:arguments}) {
 ### [ii] Immediately-invoked function expression
 
 ```javascript
-(function (${1:arguments}) {
+(function () {
   ${0:// body...}
 })();
 ```
