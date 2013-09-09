@@ -83,6 +83,14 @@ function ${1:methodName} (${2:arguments}) {
 }
 ```
 
+### [ii] Immediately-invoked function expression
+
+```javascript
+(function () {
+  ${0:// body...}
+})();
+```
+
 
 ### [me] module.exports 
 
