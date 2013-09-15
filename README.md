@@ -91,6 +91,11 @@ function ${1:methodName} (${2:arguments}) {
 })();
 ```
 
+### [vt] that = this
+
+```javascript
+var that = this${1:;}
+```
 
 ### [me] module.exports 
 
