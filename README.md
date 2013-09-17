@@ -35,7 +35,7 @@ Vanilla Snippets
 
 ```javascript
 function(${1:arguments}) {
-  ${0:// body...}
+	${0:// body...}
 }
 ```
 
@@ -78,8 +78,8 @@ console.trace(${1:msg})${0}
 ### [fn] function 
 
 ```javascript
-function ${1:methodName} (${2:arguments}) {
-  ${0:// body...}
+function ${1:methodName}(${2:arguments}) {
+	${0:// body...}
 }
 ```
 
@@ -87,7 +87,7 @@ function ${1:methodName} (${2:arguments}) {
 
 ```javascript
 (function () {
-  ${0:// body...}
+	${0:// body...}
 })();
 ```
 
@@ -103,7 +103,7 @@ module.exports = ${1}
 
 ```js
 Object.keys(${1:obj}).forEach(function(key) {
-  ${0:// body...}
+	${0:// body...}
 })
 ```
 
@@ -119,7 +119,7 @@ process.exit()
 
 ```javascript
 ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
-  ${0:// body...}
+	${0:// body...}
 }
 ```
 
@@ -135,7 +135,7 @@ require('${1:package}')${0}
 
 ```javascript
 setTimeout(function() {
-  ${2:// body...}
+	${2:// body...}
 }, ${1:millis})
 ```
 
@@ -144,7 +144,7 @@ setTimeout(function() {
 
 ```javascript
 setInterval(function() {
-  ${2:// body...}
+	${2:// body...}
 }, ${1:millis})
 ```
 
@@ -164,7 +164,7 @@ Behaviorial Driven Development
 
 ```javascript
 describe('${1:description}', function() {
-  ${0:// body...}
+	${0:// body...}
 })
 ```
 
@@ -173,7 +173,7 @@ describe('${1:description}', function() {
 
 ```javascript
 it('${1:description}', function(done) {
-  ${0:// body...}
+	${0:// body...}
 })
 ```
 
@@ -182,7 +182,7 @@ it('${1:description}', function(done) {
 
 ```javascript
 it('${1:description}', function() {
-  ${0:// body...}
+	${0:// body...}
 })
 ```
 
