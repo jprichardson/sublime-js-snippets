@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 (function () {
-  ${0: // body...}
+	${0: // body...}
 })(); 
 ]]></content>
     <tabTrigger>ii</tabTrigger>
