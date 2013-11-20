@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[Object.keys(${1:obj}).forEach(function(key) {
 	${0:// body...}
-})
+});
 ]]></content>
     <tabTrigger>okfe</tabTrigger>
     <scope>source.js</scope>
