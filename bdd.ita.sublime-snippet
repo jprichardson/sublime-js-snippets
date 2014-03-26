@@ -1,8 +1,7 @@
 <snippet>
     <content><![CDATA[it('${1:description}', function(done) {
 	${0:// body...}
-})
-]]></content>
+});]]></content>
     <tabTrigger>ita</tabTrigger>
     <scope>source.js</scope>
     <description>BDD it asynchronous</description>
