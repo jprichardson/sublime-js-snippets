@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+console.table(${1:msg});${0}
+]]></content>
+    <tabTrigger>ctb</tabTrigger>
+    <scope>source.js</scope>
+    <description>console.table</description>
+</snippet>
