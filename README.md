@@ -198,6 +198,6 @@ JP Richardson
 License
 -------
 
-Copyright 2012, JP Richardson  <jprichardson@gmail.com>
+Copyright 2012-2015, JP Richardson  <jprichardson@gmail.com>
 
 MIT
