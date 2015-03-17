@@ -1,3 +1,7 @@
+0.8.0 / 2015-03-17
+----------
+- previous versions didn't have a version tag, first actual tagged version
+
 2013-05-15
 ----------
 * removed block comment
