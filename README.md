@@ -19,7 +19,7 @@ Vanilla Snippets
 ### [afn] anonymous function
 
 ```js
-function(${1:arguments}) {
+function (${1:arguments}) {
 	${0:// body...}
 }
 ```
@@ -63,7 +63,7 @@ console.trace(${1:msg})${0}
 ### [fn] function
 
 ```js
-function ${1:methodName}(${2:arguments}) {
+function ${1:methodName} (${2:arguments}) {
 	${0:// body...}
 }
 ```
@@ -87,7 +87,7 @@ module.exports = ${1}
 ### [okfe] Objects.keys and forEach
 
 ```js
-Object.keys(${1:obj}).forEach(function(key) {
+Object.keys(${1:obj}).forEach(function (key) {
 	${0:// body...}
 })
 ```
@@ -103,7 +103,7 @@ process.exit()
 ### [proto] prototype
 
 ```js
-${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
+${1:ClassName}.prototype.${2:methodName} = function (${3:arguments}) {
 	${0:// body...}
 }
 ```
@@ -119,7 +119,7 @@ require('${1:package}')${0}
 ### [sto] setTimeout
 
 ```js
-setTimeout(function() {
+setTimeout(function () {
 	${2:// body...}
 }, ${1:millis})
 ```
@@ -128,7 +128,7 @@ setTimeout(function() {
 ### [sti] setInterval
 
 ```js
-setInterval(function() {
+setInterval(function () {
 	${2:// body...}
 }, ${1:millis})
 ```
@@ -148,7 +148,7 @@ Behaviorial Driven Development
 ### [desc] describe
 
 ```js
-describe('${1:description}', function() {
+describe('${1:description}', function () {
 	${0:// body...}
 })
 ```
@@ -157,7 +157,7 @@ describe('${1:description}', function() {
 ### [ita] asychronous it
 
 ```js
-it('${1:description}', function(done) {
+it('${1:description}', function (done) {
 	${0:// body...}
 })
 ```
@@ -166,7 +166,7 @@ it('${1:description}', function(done) {
 ### [its] synchronous it
 
 ```js
-it('${1:description}', function() {
+it('${1:description}', function () {
 	${0:// body...}
 })
 ```

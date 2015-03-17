@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[it('${1:description}', function() {
+    <content><![CDATA[it('${1:description}', function () {
 	${0:// body...}
 })
 ]]></content>

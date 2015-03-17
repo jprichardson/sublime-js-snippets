@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[setInterval(function() {
+    <content><![CDATA[setInterval(function () {
 	${2:// body...}
 }, ${1:millis})
 ]]></content>
