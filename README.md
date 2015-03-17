@@ -1,13 +1,13 @@
-Sublime Text Editor 2 - JavaScript Snippets
+Sublime Text Editor 2 / 3 - JavaScript Snippets
 ===========================================
 
-JavaScript / JS snippets for your Sublime Text 2 Fu.
+JavaScript / JS snippets for your Sublime Text 2 / 3 Fu.
 
 
 Install
 -------
 
-### Sublime Text 2 - Package Control
+### Sublime Text 2 / 3 - Package Control
 
 Install via package control: http://wbond.net/sublime_packages/community Search for **JavaScript Snippets** or typically the keywords **js** or **javascript** are suitable. You can install manually be cloning into your Sublime package directory.
 
