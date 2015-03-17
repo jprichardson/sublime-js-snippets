@@ -171,6 +171,12 @@ it('${1:description}', function() {
 })
 ```
 
+JavaScript Style
+----------------
+
+[![js-standard-style](https://raw.githubusercontent.com/feross/standard/master/badge.png)](https://github.com/feross/standard)
+
+Uses [JavaScript Standard Code Style](https://github.com/feross/standard). Read the rules [here](https://github.com/feross/standard#rules).
 
 
 License
