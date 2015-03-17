@@ -13,7 +13,6 @@ Install via package control: http://wbond.net/sublime_packages/community Search 
 
 
 
-
 Vanilla Snippets
 --------
 
@@ -171,13 +170,6 @@ it('${1:description}', function() {
 	${0:// body...}
 })
 ```
-
-
-
-Author
-------
-
-JP Richardson
 
 
 
