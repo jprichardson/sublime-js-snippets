@@ -4,6 +4,6 @@
 }
 ]]></content>
     <tabTrigger>afn</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js,source.ts</scope>
     <description>Anoynmous Function</description>
 </snippet>

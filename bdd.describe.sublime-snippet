@@ -4,6 +4,6 @@
 })
 ]]></content>
     <tabTrigger>desc</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js,source.ts</scope>
     <description>BDD Describe</description>
 </snippet>

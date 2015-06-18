@@ -4,6 +4,6 @@
 })
 ]]></content>
     <tabTrigger>okfe</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js,source.ts</scope>
     <description>Object.keys...forEach</description>
 </snippet>

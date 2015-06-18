@@ -3,6 +3,6 @@
 console.log(require('util').inspect(${1:obj}, true, ${2:10}, true))${0}
 ]]></content>
     <tabTrigger>cli</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js,source.ts</scope>
     <description>console.inspect</description>
 </snippet>
