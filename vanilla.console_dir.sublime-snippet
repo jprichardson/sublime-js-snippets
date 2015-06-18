@@ -3,6 +3,6 @@
 console.dir(${1:obj})${0}
 ]]></content>
     <tabTrigger>cd</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js,source.ts</scope>
     <description>console.dir</description>
 </snippet>

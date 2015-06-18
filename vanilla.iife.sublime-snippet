@@ -5,6 +5,6 @@
 })(); 
 ]]></content>
     <tabTrigger>ii</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js,source.ts</scope>
     <description>Immediately-invoked function expression</description>
 </snippet>

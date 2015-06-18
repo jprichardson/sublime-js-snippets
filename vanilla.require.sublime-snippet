@@ -3,6 +3,6 @@
 require('${1:package}')${0}
 ]]></content>
     <tabTrigger>req</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js,source.ts</scope>
     <description>require</description>
 </snippet>
