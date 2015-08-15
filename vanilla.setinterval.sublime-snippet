@@ -1,7 +1,7 @@
 <snippet>
-    <content><![CDATA[setInterval(function () {
+    <content><![CDATA[setInterval(function() {
 	${2:// body...}
-}, ${1:millis})
+}, ${1:millis});
 ]]></content>
     <tabTrigger>sti</tabTrigger>
     <scope>source.js,source.ts</scope>
