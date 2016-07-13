@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[try {
+	${1:// body...}
+} finally {
+	${0:// body...}
+}]]></content>
+    <tabTrigger>tryf</tabTrigger>
+    <scope>source.js,source.ts</scope>
+    <description>try...finally</description>
+</snippet>
