@@ -68,6 +68,15 @@ function ${1:methodName} (${2:arguments}) {
 }
 ```
 
+
+### [forE] forEach
+
+```js
+forEach(function (${1:elem}) {
+	${0:// body...}
+})
+```
+
 ### [ii] Immediately-invoked function expression
 
 ```js
