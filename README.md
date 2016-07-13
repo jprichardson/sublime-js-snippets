@@ -39,6 +39,13 @@ console.error(${1:error})${0}
 ```
 
 
+### [ci] console.info
+
+```js
+console.info(${1:msg})${0}
+```
+
+
 ### [cl] console.log
 
 ```js
@@ -57,6 +64,13 @@ console.log(require('util').inspect(${1:obj}, true, ${2:10}, true))${0}
 
 ```js
 console.trace(${1:msg})${0}
+```
+
+
+### [cw] console.warn
+
+```js
+console.warn(${1:msg})${0}
 ```
 
 
