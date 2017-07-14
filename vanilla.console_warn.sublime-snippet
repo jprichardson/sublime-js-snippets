@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+console.warn(${1:msg})${0}
+]]></content>
+    <tabTrigger>cw</tabTrigger>
+    <scope>source.js,source.ts</scope>
+    <description>console.warn</description>
+</snippet>
