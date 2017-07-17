@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+forEach(function (${1:elem}) {
+	${0:// body...}
+})
+]]></content>
+    <tabTrigger>forE</tabTrigger>
+    <scope>source.js,source.ts</scope>
+    <description>forEach</description>
+</snippet>
