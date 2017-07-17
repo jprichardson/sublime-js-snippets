@@ -148,6 +148,41 @@ setInterval(function () {
 ```
 
 
+### [tryc] try...catch
+
+```js
+try {
+	${1:// body...}
+} catch (e) {
+	${0:// body...}
+}
+```
+
+
+### [trycf] try...catch...finally
+
+```js
+try {
+	${1:// body...}
+} catch (e) {
+	${2:// body...}
+} finally {
+	${0:// body...}
+}
+```
+
+
+### [tryf] try...finally
+
+```js
+try {
+	${1:// body...}
+} finally {
+	${0:// body...}
+}
+```
+
+
 ### [us] use strict
 
 ```js
