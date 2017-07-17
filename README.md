@@ -123,6 +123,13 @@ ${1:ClassName}.prototype.${2:methodName} = function (${3:arguments}) {
 ```
 
 
+### [r] return
+
+```js
+return ${0}
+```
+
+
 ### [req] require
 
 ```js
